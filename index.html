@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Página Principal Lego</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #fff; 
+            color: #333; 
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #e4002b; /* Rojo de Lego */
+            color: #fff; /* Texto blanco */
+        }
+
+        nav {
+            text-align: center;
+            background-color: #333;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+
+        nav a {
+            color: #fff; /* Texto blanco */
+            text-decoration: none;
+            margin: 0 15px;
+        }
+
+        nav a:hover {
+        background-color: #ddd;
+        color: black;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: #fff; /* Texto blanco */
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+    <marquee direction="right" behavior="alternate"><img src="LEGO LOGO PNG.png"></marquee>
+    </header>
+
+    <nav>
+        <a href="SOBRE NOSOTROS.html">Sobre Nosotros</a>
+        <a href="PRODUCTOS.html">Productos</a>
+        <a href="OFERTAS.html">Ofertas</a>
+        <a href="SOLICITUD DE EMPLEO.html">Trabaja Con Nosotros</a>
+    </nav>
+<br>
+<center>
+   <p>¡Bienvenido al fascinante mundo de Lego! En nuestro viaje a través del tiempo, hemos construido más que bloques; hemos tejido historias, estimulado la imaginación y fomentado la creatividad sin límites. Desde nuestra humilde fundación en 1932 por Ole Kirk Christiansen en Dinamarca, hasta convertirnos en un símbolo global de diversión y aprendizaje, cada bloque Lego cuenta una historia única.</p>
+<br>
+<br>
+<p>Nuestros juguetes más vendidos son el reflejo de la pasión y dedicación que compartimos con niños y adultos por igual. Desde los épicos sets de Star Wars que te transportan a galaxias lejanas, hasta las detalladas representaciones de Hogwarts que traen la magia de Harry Potter a tus manos, cada set es una obra maestra que cobra vida gracias a tu creatividad.</p>
+<br>
+<br>
+<p>Estamos aquí para más que vender juguetes; somos una comunidad de constructores, soñadores y creadores. Contáctanos para ser parte de este viaje, únete a eventos exclusivos o descubre las últimas noticias y lanzamientos. En Lego, cada día es una nueva oportunidad para construir un mundo de posibilidades infinitas. ¡Bienvenido a tu próxima aventura de construcción!</p>
+</center>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Lego Company. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
